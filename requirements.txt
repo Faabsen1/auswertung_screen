@@ -1,0 +1,9 @@
+pygetwindow
+screeninfo
+tk
+mss
+numpy
+opencv-python
+pillow
+openpyxl
+pytesseract
